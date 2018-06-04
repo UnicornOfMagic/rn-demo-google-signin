@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "847041762662",
+    "firebase_url": "https://unicorn-flutter-firebase.firebaseio.com",
+    "project_id": "unicorn-flutter-firebase",
+    "storage_bucket": "unicorn-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847041762662:android:915957ab91f75a61",
+        "android_client_info": {
+          "package_name": "com.unicornofmagic.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847041762662-dadi0uthfhk0qib4cpffer33k5uccmh4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "847041762662-dadi0uthfhk0qib4cpffer33k5uccmh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegjzKfEHmwLMpEE7Wp7kR-k_2Dlr95m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
